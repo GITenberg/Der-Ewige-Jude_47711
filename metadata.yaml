@@ -1,4 +1,5 @@
 _repo: Der-Ewige-Jude_47711
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Masereel, Frans
@@ -10,12 +11,17 @@ contributor:
     agent_name: Kippenberg, Anton
     gutenberg_agent_id: '44440'
     url: http://www.gutenberg.org/2009/agents/44440
+covers:
+- cover_type: archival
+  image_path: 47711-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Vermeylen, August
     gutenberg_agent_id: '44439'
     url: http://www.gutenberg.org/2009/agents/44439
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47711#Der-Ewige-Jude
 gutenberg_issued: '2014-12-20'
 gutenberg_type: Text
 identifiers:
